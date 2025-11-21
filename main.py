@@ -1,1 +1,3 @@
-print(file for 2 laba)
+print("file for 2 laba")
+
+print("2 commit for push")
